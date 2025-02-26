@@ -9,8 +9,10 @@ import {
   SiPostgresql,
   SiMysql,
   SiPrisma,
+  SiMoonrepo,
+  SiTurborepo,
 } from "react-icons/si";
-import { FaReact, FaNodeJs, FaAws, FaDocker } from "react-icons/fa";
+import { FaReact, FaNodeJs, FaAws, FaDocker, FaCloudflare } from "react-icons/fa";
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -56,6 +58,8 @@ export const skillsData = [
       { icon: BsGit, size: "w-5 h-5" },
       { icon: BsGithub, size: "w-5 h-5" },
       { icon: FaDocker, size: "w-5 h-5" },
+      { icon: FaCloudflare, size: "w-5 h-5" },
+      { icon: SiTurborepo, size: "w-5 h-5" },
       { icon: FaAws, size: "w-5 h-5" },
     ],
   },
