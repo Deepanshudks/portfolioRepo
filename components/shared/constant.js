@@ -58,8 +58,6 @@ export const skillsData = [
       { icon: BsGit, size: "w-5 h-5" },
       { icon: BsGithub, size: "w-5 h-5" },
       { icon: FaDocker, size: "w-5 h-5" },
-      { icon: FaCloudflare, size: "w-5 h-5" },
-      { icon: SiTurborepo, size: "w-5 h-5" },
       { icon: FaAws, size: "w-5 h-5" },
     ],
   },
