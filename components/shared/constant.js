@@ -63,7 +63,7 @@ export const skillsData = [
   },
 ];
 
-export const resumeLink = "https://drive.google.com/file/d/18sFIgm6ItSL3Rzu8jTxn47xb2FXTxD0A/view?usp=drive_link";
+export const resumeLink = "https://drive.google.com/file/d/1pb5vHfrH-n3tGjaWKEsCbyp0gKPAafCX/view?usp=drivesdk";
 
 export const socialLinks = [
   { href: "https://x.com/Deepanshudk08", icon: BsTwitter, label: "Twitter" },
