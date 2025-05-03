@@ -12,7 +12,13 @@ import {
   SiMoonrepo,
   SiTurborepo,
 } from "react-icons/si";
-import { FaReact, FaNodeJs, FaAws, FaDocker, FaCloudflare } from "react-icons/fa";
+import {
+  FaReact,
+  FaNodeJs,
+  FaAws,
+  FaDocker,
+  FaCloudflare,
+} from "react-icons/fa";
 import {
   AiFillGithub,
   AiFillInstagram,
@@ -20,7 +26,12 @@ import {
   AiFillMail,
   AiOutlineHome,
 } from "react-icons/ai";
-import { BsTwitter, BsFillPersonVcardFill, BsGit, BsGithub } from "react-icons/bs";
+import {
+  BsTwitter,
+  BsFillPersonVcardFill,
+  BsGit,
+  BsGithub,
+} from "react-icons/bs";
 
 export const skillsData = [
   {
@@ -63,7 +74,8 @@ export const skillsData = [
   },
 ];
 
-export const resumeLink = "https://drive.google.com/file/d/1pb5vHfrH-n3tGjaWKEsCbyp0gKPAafCX/view?usp=drivesdk";
+export const resumeLink =
+  "https://drive.google.com/file/d/1Ec7IQKZ4blqrFW3Lf1dVicqd9jLcO5HO/view?usp=drive_link";
 
 export const socialLinks = [
   { href: "https://x.com/Deepanshudk08", icon: BsTwitter, label: "Twitter" },
@@ -77,7 +89,11 @@ export const socialLinks = [
     icon: AiFillLinkedin,
     label: "LinkedIn",
   },
-  { href: "https://github.com/Deepanshudks", icon: AiFillGithub, label: "GitHub" },
+  {
+    href: "https://github.com/Deepanshudks",
+    icon: AiFillGithub,
+    label: "GitHub",
+  },
   {
     href: "mailto:kuldeepgaud.0810@gmail.com",
     icon: AiFillMail,
@@ -93,7 +109,7 @@ export const navLinks = [
 export const projectsData = [
   {
     name: "Quicklink",
-    tag : "Maintained",
+    tag: "Maintained",
     // liveLink: "http://15.271.30:3000",
     githubLink: "https://github.com/Deepanshudks/Quicklink.git",
     liveLink: "http://43.205.44.207:3000/",
@@ -102,7 +118,8 @@ export const projectsData = [
       "It uses AWS S3 for storage, PostgreSQL for database management, and Dockerized deployment on AWS EC2 for scalability and reliability.",
     ],
     category: "Full Stack Development",
-    techStack: "React.js, Tailwind CSS, Express, PostgreSQL (Neon), Prisma, Docker, Nginx, AWS EC2, GitHub Actions",
+    techStack:
+      "React.js, Tailwind CSS, Express, PostgreSQL (Neon), Prisma, Docker, Nginx, AWS EC2, GitHub Actions",
   },
   {
     name: "Medium Clone",
@@ -110,11 +127,12 @@ export const projectsData = [
     githubLink: "https://github.com/Deepanshudks/medium.git",
     liveLink: "https://blogmedium1.netlify.app/",
     description: [
-      "Medium Clone is a full-stack blogging platform that allows users to create, edit, and publish articles.", 
+      "Medium Clone is a full-stack blogging platform that allows users to create, edit, and publish articles.",
       "It features authentication, rich text editing, and a seamless user experience",
     ],
     category: "Web Development",
-    techStack: "Vite, React, TypeScript, Tailwind CSS, Hono, Cloudflare Workers, PostgreSQL (Prisma ORM), Zod, and @deepanshdks/medium-common for shared utilities.",
+    techStack:
+      "Vite, React, TypeScript, Tailwind CSS, Hono, Cloudflare Workers, PostgreSQL (Prisma ORM), Zod, and @deepanshdks/medium-common for shared utilities.",
   },
   {
     name: "YourBook",
@@ -129,7 +147,8 @@ export const projectsData = [
       "Responsive and modern UI built with React and Tailwind CSS.",
     ],
     category: "Web Development",
-    techStack: "React.js, Tailwind CSS, Node.js, Express.js, MongoDB Atlas, JWT (JSON Web Token).",
+    techStack:
+      "React.js, Tailwind CSS, Node.js, Express.js, MongoDB Atlas, JWT (JSON Web Token).",
   },
   {
     name: "Alabay",
@@ -142,7 +161,8 @@ export const projectsData = [
       "The project ensures a modern, fast, and visually appealing interface.",
     ],
     category: "Frontend Development",
-    techStack: "React.js, TypeScript, Tailwind CSS, Framer Motion, React Slick, Swiper",
+    techStack:
+      "React.js, TypeScript, Tailwind CSS, Framer Motion, React Slick, Swiper",
   },
   {
     name: "News-Space",
