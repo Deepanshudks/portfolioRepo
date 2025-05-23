@@ -85,7 +85,7 @@ export const socialLinks = [
     label: "Instagram",
   },
   {
-    href: "https://www.linkedin.com/in/kuldeep-gaud/",
+    href: "https://www.linkedin.com/in/kuldeepgaud-dev",
     icon: AiFillLinkedin,
     label: "LinkedIn",
   },
