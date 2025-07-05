@@ -112,7 +112,7 @@ export const projectsData = [
     tag: "Maintained",
     // liveLink: "http://15.271.30:3000",
     githubLink: "https://github.com/Deepanshudks/Quicklink.git",
-    liveLink: "http://43.205.44.207:3000/",
+    liveLink: "http://3.6.113.20:3000/",
     description: [
       "QuickLink is a fast and secure file-sharing app that lets users upload files and share them via QR codes.",
       "It uses AWS S3 for storage, PostgreSQL for database management, and Dockerized deployment on AWS EC2 for scalability and reliability.",
