@@ -75,7 +75,7 @@ export const skillsData = [
 ];
 
 export const resumeLink =
-  "https://drive.google.com/file/d/1DUC9-ZNzDR8EzLVG6korauHDgwvURvtB/view?usp=drive_link";
+  "https://drive.google.com/file/d/1uTdB0N_e-EmxSYqafzVARKxTcuaLsGul/view?usp=drive_link";
 
 export const socialLinks = [
   { href: "https://x.com/Deepanshudk08", icon: BsTwitter, label: "Twitter" },
@@ -108,16 +108,13 @@ export const navLinks = [
 
 export const experienceData = [
   {
-    position: "Trainee Software Engineer",
-    companyName: "Singsys",
-    joinAt: "March 2025",
+    position: "Software Engineer",
+    companyName: "Demo XYZ",
+    joinAt: "2025",
     leaveAt: "Present",
-    websiteUrl: "https://www.linkedin.com/company/singsys-pte-ltd/about/",
+    websiteUrl: "https://www.linkedin.com/kuldeepgaud-dev",
     description: [
       "Contributed to multiple real-time client-facing projects using React.js, Next.js, and Material UI, enhancing product reliability and UI/UX.",
-      "Optimized component performance by 30% through refactoring, debouncing, and minimizing unnecessary re-renders.",
-      "Resolved over 50+ production bugs, improving system stability and maintaining high-quality codebase standards.",
-      "Actively collaborated with cross-functional teams in Agile sprints, delivering features ahead of deadlines.",
     ],
   },
 ];
