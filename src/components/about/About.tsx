@@ -3,7 +3,6 @@
 import React from "react";
 import Banner from "./Banner";
 import Projects from "./Projects";
-import OpenSource from "./OpenSource";
 import Header from "./Header";
 
 const About: React.FC = () => {
