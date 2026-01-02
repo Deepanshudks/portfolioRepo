@@ -15,13 +15,11 @@ const About: React.FC = () => {
         </div>
 
         <div className="space-y-16">
-          {/* Projects Section */}
           <section>
             <Projects />
           </section>
         </div>
 
-        {/* Footer Note */}
         <div className="mt-16 pt-8 border-t border-neutral-800 text-center">
           <p className="text-neutral-500 text-sm">
             This journey continues... 🚀

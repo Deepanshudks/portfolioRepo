@@ -130,7 +130,9 @@ export const skillsData = [
 ];
 
 export const resumeLink =
-  "https://drive.google.com/file/d/1U1-YS954lDZdYHOw2MmvVcoUIovm6knV/view?usp=drive_link";
+  "https://drive.google.com/file/d/11Jw5OYSD7ORIkIskquL8n5JQOpvocQui/view?usp=drive_link";
+
+export const emailAddress = "kuldeepgaud.0810@gmail.com";
 
 export const socialLinks = [
   { href: "https://x.com/Deepanshudk08", icon: BsTwitter, label: "Twitter" },
@@ -140,7 +142,7 @@ export const socialLinks = [
     label: "Instagram",
   },
   {
-    href: "https://www.linkedin.com/in/kuldeep-gaud/",
+    href: "https://www.linkedin.com/in/kuldeepgaud-dev/",
     icon: AiFillLinkedin,
     label: "LinkedIn",
   },
