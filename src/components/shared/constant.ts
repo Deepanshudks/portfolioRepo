@@ -130,7 +130,7 @@ export const skillsData = [
 ];
 
 export const resumeLink =
-  "https://drive.google.com/file/d/11Jw5OYSD7ORIkIskquL8n5JQOpvocQui/view?usp=drive_link";
+  "https://drive.google.com/file/d/11XTvOqFzt3L9Jdm8kD_9ajuP5HAvVf6G/view?usp=drive_link";
 
 export const emailAddress = "kuldeepgaud.0810@gmail.com";
 
